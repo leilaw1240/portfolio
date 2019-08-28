@@ -3,7 +3,7 @@ wordpress based dynamic web site
  
 ### Implementation Details
 #### General
-* Taken the Twenty Sixteen as a reference and created new theme as per the requirement.
+* Taken the Twenty Sixteen as a reference and overrided the  theme as per the requirement.
 * Introduced custom field attributes for personal information.
 * Introduced new custom post type "projects" where can admin can add our project details like team , client , duration and other project details.
 
